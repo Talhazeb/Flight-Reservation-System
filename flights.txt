@@ -1,0 +1,9 @@
+A-330,Islamabad,Direct,Karachi,10/10/2021,15000,4
+A-331,Islamabad,Lahore,Karachi,10/10/2021,16000,10
+A-332,Islamabad,Peshawar,Karachi,10/10/2021,11000,8
+A-440,Islamabad,Direct,France,20/10/2021,50000,7
+A-441,Islamabad,Dubai,France,20/10/2021,40000,9
+A-442,Islamabad,Belgium,France,20/10/2021,45000,12
+A-550,Islamabad,Karachi,Dubai,30/10/2021,14000,15
+A-551,Islamabad,Direct,Dubai,30/10/2021,18000,1
+A-552,Islamabad,Direct,Lahore,30/10/2021,8000,6
